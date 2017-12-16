@@ -12,3 +12,6 @@ Currently I'm in progress of converting all the examples to the latest (r88 as o
 
 https://github.com/josdirksen/learning-threejs-third/tree/inventorize
 
+
+test by dahe
+
